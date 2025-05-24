@@ -59,7 +59,7 @@ We take reasonable technical and organizational measures to protect your data. H
 
 ## 6. Children’s Privacy
 
-Bazzario is not intended for users under the age of 13. We do not knowingly collect personal data from children.
+Bazzario is not intended for users under the age of 6. We do not knowingly collect personal data from children.
 
 ---
 
