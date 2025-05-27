@@ -1,7 +1,7 @@
 # Privacy Policy for Bazzario App
 
 **Effective Date:** May 27, 2025  
-**Developer:** Shashi Kumar Kushwaha
+**FOUNDER:** Shashi Kumar Kushwaha
 
 ---
 
