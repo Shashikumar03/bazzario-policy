@@ -9,9 +9,9 @@
 
 Bazzario is a simple and user-friendly mobile application that allows users to:
 
-- 📱 Register using their **mobile number, email, and name**
-- 🛒 Access the **Bazzario Dashboard** for a smooth shopping experience
-- 🧺 Browse and purchase **grocery items at valuable prices**
+- 📱 Register using their **mobile number, email, and name**  
+- 🛒 Access the **Bazzario Dashboard** for a smooth shopping experience  
+- 🧺 Browse and purchase **grocery items at valuable prices**  
 - 🚚 Get groceries delivered conveniently to their doorstep
 
 ---
@@ -20,43 +20,52 @@ Bazzario is a simple and user-friendly mobile application that allows users to:
 
 We take your privacy seriously. The Bazzario app:
 
-- **Only collects necessary data during registration**, such as:
-  - Mobile number
-  - Email address
-  - Name
+- **Collects only necessary data during registration**, such as:
+  - Mobile number  
+  - Email address  
+  - Name  
 
-This data is used solely to create your account and provide you with app features like order tracking and communication.
+This data is used solely to create your account and provide app features like order tracking and communication.
 
-- ✅ We **do not collect sensitive data** like financial information, contacts, or background activity.
-- ✅ We **do not collect data in the background** or without user action.
+Additionally, we use **Firebase Cloud Messaging (FCM)** to send push notifications to your device.  
+To support this, we may collect:
+- Device identifiers (e.g., FCM Token)
+- App instance ID
+
+This data **does not include personal or sensitive information** and is used solely to deliver notifications.
 
 ---
 
 ## 🔁 Data Sharing
 
-We do **not share your personal data** with third-party companies or services.
+We do **not share your personal data** with third-party companies for marketing or advertising.
 
-Your registration information is used only within the app for order management and communication with you as a customer.
+However, we use **Google’s Firebase services** (including FCM) which may collect limited technical data to enable core features like push notifications. These services operate under their own privacy policies and comply with industry standards.
+
+Your registration and notification information is only used within the app for:
+- Order updates  
+- Important app notifications  
+- Account-related communication
 
 ---
 
 ## 🔐 Data Security
 
-Your data is stored securely and only used for purposes directly related to the app functionality.
+Your data is stored securely and used strictly for functionality related to the app.
 
-We follow industry-standard practices to ensure the security and confidentiality of your data.
+We apply **industry-standard security practices**, including secure server communication and limited access to user data, to protect your information.
 
 ---
 
 ## 📝 Changes to This Policy
 
-We may update our privacy policy in the future. Any updates will be published here with a revised effective date.
+We may update our privacy policy to reflect changes in our practices or services like push notifications. Any updates will be published here with a new effective date.
 
 ---
 
 ## 📞 Contact Us
 
-If you have any questions or concerns about this privacy policy or your experience with the app, feel free to reach out to us:
+If you have any questions or concerns about this privacy policy or your experience with the app, contact us:
 
 **Email:** [shashikumarkushwaha3@gmail.com](mailto:shashikumarkushwaha3@gmail.com)  
 **Phone:** +91-9341285445  
@@ -67,4 +76,4 @@ India
 
 ---
 
-**Thank you for using Bazzario! Happy shopping!**
+**Thank you for using Bazzario! We value your privacy and trust.**
