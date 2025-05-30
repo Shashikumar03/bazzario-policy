@@ -57,6 +57,18 @@ We apply **industry-standard security practices**, including secure server commu
 
 ---
 
+## 🗑️ Account Deletion
+
+You have the right to **delete your account and associated personal data** at any time.
+
+To request account deletion, you can:
+- Use the **"Delete My Account"** option in the app (if available), or  
+- Email us at [shashikumarkushwaha3@gmail.com](mailto:shashikumarkushwaha3@gmail.com) with the subject line `Account Deletion Request` and include your registered mobile number and email.
+
+Your request will be processed within 7 business days, and all your personal data will be permanently removed from our systems.
+
+---
+
 ## 📝 Changes to This Policy
 
 We may update our privacy policy to reflect changes in our practices or services like push notifications. Any updates will be published here with a new effective date.
